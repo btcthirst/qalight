@@ -28,5 +28,10 @@
   },
   "simple-git-hooks": {
     "pre-push": "pnpm typecheck && pnpm build"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "simple-git-hooks"
+    ]
   }
 }
