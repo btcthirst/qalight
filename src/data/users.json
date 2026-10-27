@@ -1,0 +1,32 @@
+[
+  {
+    "id": 11,
+    "name": "Адміністратор сайту",
+    "createdAt": "2016-06-28 17:09:23",
+    "status": "1",
+    "comment": "",
+    "email": "",
+    "username": "",
+    "password": ""
+  },
+  {
+    "id": 13,
+    "name": "Студент",
+    "createdAt": "2016-06-28 17:14:57",
+    "status": "1",
+    "comment": "",
+    "email": "user3@qalight.ua",
+    "username": "student",
+    "password": "909090"
+  },
+  {
+    "id": 12,
+    "name": "Yurgo",
+    "createdAt": "2016-06-28 17:09:23",
+    "status": "1",
+    "comment": "",
+    "email": "",
+    "username": "",
+    "password": ""
+  }
+]

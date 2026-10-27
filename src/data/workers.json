@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "surname": "оо",
+    "name": "оо",
+    "middleName": "",
+    "phone": "abcdefghij"
+  },
+  {
+    "id": 2,
+    "surname": "Іванов",
+    "name": "Петр",
+    "middleName": "Петрович",
+    "phone": "380442222222"
+  },
+  {
+    "id": 3,
+    "surname": "Васильев",
+    "name": "Василий",
+    "middleName": "Іванович",
+    "phone": ""
+  },
+  {
+    "id": 4,
+    "surname": "Лагута",
+    "name": "Царко",
+    "middleName": "Борисович",
+    "phone": "380776245977"
+  },
+  {
+    "id": 6,
+    "surname": "плілп",
+    "name": "аіуаіа",
+    "middleName": "ауіаі",
+    "phone": "аіуаі"
+  },
+  {
+    "id": 8,
+    "surname": "ivan",
+    "name": "איליה",
+    "middleName": "Lybchak",
+    "phone": "admin' --"
+  },
+  {
+    "id": 9,
+    "surname": "Тестовий чувак",
+    "name": "чувак",
+    "middleName": "чувак",
+    "phone": "3888999"
+  },
+  {
+    "id": 10,
+    "surname": "Тестовий чувак",
+    "name": "чувак",
+    "middleName": "",
+    "phone": ""
+  },
+  {
+    "id": 13,
+    "surname": "иииввае",
+    "name": "4534",
+    "middleName": "",
+    "phone": "к43252542"
+  },
+  {
+    "id": 15,
+    "surname": "бомбарділо",
+    "name": "крокоділо",
+    "middleName": "бро",
+    "phone": "number"
+  },
+  {
+    "id": 16,
+    "surname": "✦ ⟡ ≈ ∴ ☍ ⌘ ✧ ∷ ⊹ ⟢",
+    "name": "ᛝ ⟁ ⌬ ᚡ ⟴ ᛒ ⌘ ᛟ ⟒ ᚦ ⌭ ᛁ ⟃ ᚨ ⌸ ᛊ ⟐ ᚱ ⌾ ᛞ",
+    "middleName": "Олександровичвичвич",
+    "phone": "✦ ⟡ ≈ ∴ ☍ ⌘ ✧ ∷ ⊹ ⟢"
+  },
+  {
+    "id": 17,
+    "surname": "Pups",
+    "name": "Ilya",
+    "middleName": "Petrovich",
+    "phone": "+380991234567"
+  },
+  {
+    "id": 18,
+    "surname": "Петренко",
+    "name": "Петро",
+    "middleName": "Петрович",
+    "phone": "380501234567"
+  },
+  {
+    "id": 19,
+    "surname": "Тестов",
+    "name": "Тест",
+    "middleName": "",
+    "phone": ""
+  },
+  {
+    "id": 21,
+    "surname": "1",
+    "name": "1",
+    "middleName": "",
+    "phone": ""
+  },
+  {
+    "id": 22,
+    "surname": "1",
+    "name": "1",
+    "middleName": "иван",
+    "phone": ""
+  },
+  {
+    "id": 24,
+    "surname": "Горохов",
+    "name": "Семен",
+    "middleName": "Андрійович",
+    "phone": "2314214123"
+  },
+  {
+    "id": 26,
+    "surname": "Тест",
+    "name": "Теств",
+    "middleName": "Тествв",
+    "phone": "тест"
+  },
+  {
+    "id": 27,
+    "surname": "Петренко",
+    "name": "Теств",
+    "middleName": "Тествв",
+    "phone": "+380501234567"
+  },
+  {
+    "id": 28,
+    "surname": "!@#$%^&*",
+    "name": "f",
+    "middleName": "f",
+    "phone": "099"
+  },
+  {
+    "id": 29,
+    "surname": "ШЕвченко",
+    "name": "Тарас",
+    "middleName": "",
+    "phone": "(095)111-11-11"
+  },
+  {
+    "id": 30,
+    "surname": "Боб",
+    "name": "Мик",
+    "middleName": "",
+    "phone": "Мик"
+  },
+  {
+    "id": 32,
+    "surname": "Шевченко",
+    "name": "Тарас",
+    "middleName": "",
+    "phone": ""
+  },
+  {
+    "id": 33,
+    "surname": "Шевченко",
+    "name": "Іван",
+    "middleName": "Петрович",
+    "phone": "380501112233"
+  },
+  {
+    "id": 34,
+    "surname": "Шевченко",
+    "name": "Іван",
+    "middleName": "Петрович",
+    "phone": "380501112233"
+  },
+  {
+    "id": 36,
+    "surname": "ggg",
+    "name": "ggg",
+    "middleName": "ggg",
+    "phone": "ggg"
+  },
+  {
+    "id": 37,
+    "surname": "ggg",
+    "name": "ggg",
+    "middleName": "ggg",
+    "phone": "ggg"
+  },
+  {
+    "id": 40,
+    "surname": "QAOS123",
+    "name": "Тест",
+    "middleName": "Тестович",
+    "phone": "телефон"
+  },
+  {
+    "id": 41,
+    "surname": "ivan",
+    "name": "איליה",
+    "middleName": "Lybchak",
+    "phone": "03"
+  },
+  {
+    "id": 44,
+    "surname": "666644",
+    "name": "66776",
+    "middleName": "75",
+    "phone": "34"
+  },
+  {
+    "id": 46,
+    "surname": "ggg",
+    "name": "ggg",
+    "middleName": "ggg",
+    "phone": "ggg"
+  },
+  {
+    "id": 47,
+    "surname": "Горохов",
+    "name": "Семен",
+    "middleName": "Андрійович",
+    "phone": "2314214123"
+  },
+  {
+    "id": 50,
+    "surname": "Коваленко",
+    "name": "Олександр",
+    "middleName": "Петрович",
+    "phone": "фівфівфів"
+  },
+  {
+    "id": 51,
+    "surname": "The",
+    "name": "First",
+    "middleName": "",
+    "phone": "380441234567"
+  },
+  {
+    "id": 52,
+    "surname": "The",
+    "name": "second",
+    "middleName": "",
+    "phone": "(495)111-11-12"
+  },
+  {
+    "id": 53,
+    "surname": "Іванов",
+    "name": "Іван",
+    "middleName": "",
+    "phone": "aiyai"
+  },
+  {
+    "id": 54,
+    "surname": "Іванов",
+    "name": "Іван",
+    "middleName": "",
+    "phone": "a123b456"
+  },
+  {
+    "id": 55,
+    "surname": "Петров",
+    "name": "Петро",
+    "middleName": "",
+    "phone": "@@@"
+  },
+  {
+    "id": 56,
+    "surname": "Петров",
+    "name": "Петро",
+    "middleName": "",
+    "phone": "' OR '1'='1"
+  },
+  {
+    "id": 57,
+    "surname": "Тестовий чувак",
+    "name": "чувак",
+    "middleName": "",
+    "phone": ""
+  },
+  {
+    "id": 59,
+    "surname": "12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890",
+    "name": "1234567890123456789012345678901234567890123456789012345678901234123456789012345678905678901234567890123456789012345678912345678900123456789012345678901234567890",
+    "middleName": "12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890",
+    "phone": "1234567890123456789012345678901234567890"
+  },
+  {
+    "id": 66,
+    "surname": "Іванов",
+    "name": "Іван",
+    "middleName": "Іванович",
+    "phone": "0501112233"
+  },
+  {
+    "id": 67,
+    "surname": "тест",
+    "name": "тест",
+    "middleName": "тест",
+    "phone": "тест_"
+  }
+]
