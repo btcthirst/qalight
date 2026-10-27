@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "name": "ЧП \"Рога и Копыта\"",
+    "address": "Банковская, 15",
+    "phone": "380440001111111111111",
+    "isFl": false,
+    "isOurFirm": false
+  },
+  {
+    "id": 2,
+    "name": "ОАО \"МММ\"",
+    "address": "Крещатик, 1, оф.1",
+    "phone": "380440002222",
+    "isFl": false,
+    "isOurFirm": false
+  },
+  {
+    "id": 3,
+    "name": "ЧП \"Ремонт автоматов\"",
+    "address": "Лесная, 10",
+    "phone": "380440003333",
+    "isFl": true,
+    "isOurFirm": true
+  },
+  {
+    "id": 4,
+    "name": "Лукашин Олег Степанович",
+    "address": "Шевченко, 3",
+    "phone": "380440004444",
+    "isFl": true,
+    "isOurFirm": true
+  },
+  {
+    "id": 5,
+    "name": "Котейкин Геннадий Чебурахович",
+    "address": "Общежитие №5",
+    "phone": "380440005555",
+    "isFl": true,
+    "isOurFirm": false
+  },
+  {
+    "id": 6,
+    "name": "ФОП \"Максимів Таїсія Йосипівна\"",
+    "address": "вул. Ділова",
+    "phone": "-",
+    "isFl": true,
+    "isOurFirm": false
+  },
+  {
+    "id": 9,
+    "name": "ввв",
+    "address": "Львів, вул. Зелена 10",
+    "phone": "380669988776",
+    "isFl": true,
+    "isOurFirm": true
+  },
+  {
+    "id": 10,
+    "name": "ппппппппппппппп",
+    "address": "ааааааааааа",
+    "phone": "ввввввввв",
+    "isFl": true,
+    "isOurFirm": true
+  },
+  {
+    "id": 25,
+    "name": "1",
+    "address": "1",
+    "phone": "фвіафів",
+    "isFl": true,
+    "isOurFirm": false
+  },
+  {
+    "id": 27,
+    "name": "93245",
+    "address": "78533",
+    "phone": "Телефон",
+    "isFl": false,
+    "isOurFirm": false
+  },
+  {
+    "id": 28,
+    "name": "ТОВ Сервіс",
+    "address": "Львів, вул. Зелена 10",
+    "phone": "@@@",
+    "isFl": false,
+    "isOurFirm": false
+  },
+  {
+    "id": 30,
+    "name": "піляк",
+    "address": "алегрович",
+    "phone": "",
+    "isFl": true,
+    "isOurFirm": false
+  },
+  {
+    "id": 31,
+    "name": "Наша",
+    "address": "Компаша",
+    "phone": "066676767",
+    "isFl": false,
+    "isOurFirm": true
+  },
+  {
+    "id": 32,
+    "name": "gg",
+    "address": "gg",
+    "phone": "gg",
+    "isFl": false,
+    "isOurFirm": false
+  },
+  {
+    "id": 33,
+    "name": "Вадім",
+    "address": "Оболонь",
+    "phone": "380440005555",
+    "isFl": true,
+    "isOurFirm": false
+  },
+  {
+    "id": 35,
+    "name": "QA-тестер",
+    "address": "вул. Тестова 1",
+    "phone": "abc-телефон",
+    "isFl": false,
+    "isOurFirm": true
+  },
+  {
+    "id": 36,
+    "name": "1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890",
+    "address": "Оболонь",
+    "phone": "ууу",
+    "isFl": true,
+    "isOurFirm": true
+  },
+  {
+    "id": 37,
+    "name": "ООО \"АПВ\"",
+    "address": "Spain",
+    "phone": "14812",
+    "isFl": true,
+    "isOurFirm": false
+  },
+  {
+    "id": 38,
+    "name": "«ТОВ ТехноПостач».",
+    "address": "вул. Кукушкіна, 1",
+    "phone": "+38050123123",
+    "isFl": false,
+    "isOurFirm": true
+  },
+  {
+    "id": 39,
+    "name": "//",
+    "address": "!@#$",
+    "phone": "adc",
+    "isFl": false,
+    "isOurFirm": false
+  },
+  {
+    "id": 40,
+    "name": "Іван",
+    "address": "Шевченка, 3",
+    "phone": "aiyai",
+    "isFl": true,
+    "isOurFirm": false
+  },
+  {
+    "id": 41,
+    "name": "Петров",
+    "address": "Петрова, 1",
+    "phone": "OR '1'='1",
+    "isFl": true,
+    "isOurFirm": false
+  },
+  {
+    "id": 42,
+    "name": "Іванов",
+    "address": "Шевченка, 2",
+    "phone": "",
+    "isFl": true,
+    "isOurFirm": false
+  },
+  {
+    "id": 43,
+    "name": "Петров",
+    "address": "Петрова",
+    "phone": "a123b456",
+    "isFl": true,
+    "isOurFirm": false
+  },
+  {
+    "id": 44,
+    "name": "Іванов",
+    "address": "Шевченка",
+    "phone": "@@@",
+    "isFl": true,
+    "isOurFirm": false
+  },
+  {
+    "id": 46,
+    "name": "1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890",
+    "address": "1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678912345678901234567890123456789012345678901234567890123456789001234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890",
+    "phone": "12345678901234567890123456789012345678901234567890",
+    "isFl": false,
+    "isOurFirm": true
+  },
+  {
+    "id": 48,
+    "name": "йцук",
+    "address": "йцук",
+    "phone": "йцук",
+    "isFl": false,
+    "isOurFirm": false
+  },
+  {
+    "id": 49,
+    "name": "тест1",
+    "address": "тест1",
+    "phone": "тест2",
+    "isFl": false,
+    "isOurFirm": true
+  },
+  {
+    "id": 50,
+    "name": "абсбасб",
+    "address": "бвбвббвба",
+    "phone": "0093938348у4",
+    "isFl": true,
+    "isOurFirm": false
+  }
+]

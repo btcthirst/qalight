@@ -1,0 +1,267 @@
+[
+  {
+    "id": 2,
+    "number": "-5",
+    "comment": "-5"
+  },
+  {
+    "id": 3,
+    "number": "-1000",
+    "comment": ""
+  },
+  {
+    "id": 4,
+    "number": "0",
+    "comment": ""
+  },
+  {
+    "id": 5,
+    "number": "1",
+    "comment": "123"
+  },
+  {
+    "id": 6,
+    "number": "13",
+    "comment": "Ноутбук тест"
+  },
+  {
+    "id": 10,
+    "number": "25",
+    "comment": "Десятий автомат"
+  },
+  {
+    "id": 11,
+    "number": "1",
+    "comment": "123"
+  },
+  {
+    "id": 13,
+    "number": "-5",
+    "comment": "Термінатор"
+  },
+  {
+    "id": 14,
+    "number": "-1000",
+    "comment": "Термінатор"
+  },
+  {
+    "id": 15,
+    "number": "1000",
+    "comment": "Термінатор"
+  },
+  {
+    "id": 19,
+    "number": "123",
+    "comment": "Тестовий автомат"
+  },
+  {
+    "id": 24,
+    "number": "15",
+    "comment": "Тестовий автомат"
+  },
+  {
+    "id": 25,
+    "number": "1",
+    "comment": "термінатор"
+  },
+  {
+    "id": 26,
+    "number": "24",
+    "comment": "Ох... Вася... чо за апарат"
+  },
+  {
+    "id": 28,
+    "number": "3221",
+    "comment": "QA edit test"
+  },
+  {
+    "id": 29,
+    "number": "14222",
+    "comment": "אבגד"
+  },
+  {
+    "id": 30,
+    "number": "12345",
+    "comment": "роимрпло"
+  },
+  {
+    "id": 33,
+    "number": "1",
+    "comment": "The first"
+  },
+  {
+    "id": 36,
+    "number": "10",
+    "comment": "new"
+  },
+  {
+    "id": 37,
+    "number": "10",
+    "comment": "aboba"
+  },
+  {
+    "id": 38,
+    "number": "10",
+    "comment": "not new"
+  },
+  {
+    "id": 41,
+    "number": "3",
+    "comment": "QA-тест22"
+  },
+  {
+    "id": 42,
+    "number": "0",
+    "comment": "QA-тесті"
+  },
+  {
+    "id": 46,
+    "number": "9001",
+    "comment": "Тестовий апарат TC-005"
+  },
+  {
+    "id": 47,
+    "number": "1",
+    "comment": "123"
+  },
+  {
+    "id": 48,
+    "number": "1",
+    "comment": "Дубль номера"
+  },
+  {
+    "id": 49,
+    "number": "9001",
+    "comment": "Дубль номера"
+  },
+  {
+    "id": 51,
+    "number": "999",
+    "comment": "Запис для видалення"
+  },
+  {
+    "id": 52,
+    "number": "-10",
+    "comment": "Negative number test"
+  },
+  {
+    "id": 53,
+    "number": "301",
+    "comment": "<test> & \"comment\""
+  },
+  {
+    "id": 55,
+    "number": "103",
+    "comment": ""
+  },
+  {
+    "id": 59,
+    "number": "123",
+    "comment": "ббб"
+  },
+  {
+    "id": 60,
+    "number": "999",
+    "comment": "бббб"
+  },
+  {
+    "id": 61,
+    "number": "2312",
+    "comment": "21314"
+  },
+  {
+    "id": 62,
+    "number": "2312",
+    "comment": "21314"
+  },
+  {
+    "id": 64,
+    "number": "1",
+    "comment": "1"
+  },
+  {
+    "id": 65,
+    "number": "0",
+    "comment": "0"
+  },
+  {
+    "id": 66,
+    "number": "-1",
+    "comment": "-1"
+  },
+  {
+    "id": 70,
+    "number": "131",
+    "comment": "кофеварка"
+  },
+  {
+    "id": 71,
+    "number": "131",
+    "comment": "самовар"
+  },
+  {
+    "id": 72,
+    "number": "2312",
+    "comment": "21314"
+  },
+  {
+    "id": 73,
+    "number": "1",
+    "comment": "ю"
+  },
+  {
+    "id": 75,
+    "number": "11",
+    "comment": "Decimal number test"
+  },
+  {
+    "id": 76,
+    "number": "10",
+    "comment": "Decimal 10.4 test"
+  },
+  {
+    "id": 77,
+    "number": "0",
+    "comment": "Zero number test"
+  },
+  {
+    "id": 78,
+    "number": "123",
+    "comment": "Leading zeros test"
+  },
+  {
+    "id": 79,
+    "number": "123",
+    "comment": "Plus number test"
+  },
+  {
+    "id": 80,
+    "number": "123",
+    "comment": "Spaces around number test"
+  },
+  {
+    "id": 84,
+    "number": "130",
+    "comment": "a"
+  },
+  {
+    "id": 86,
+    "number": "1234",
+    "comment": "2134"
+  },
+  {
+    "id": 91,
+    "number": "1",
+    "comment": "1"
+  },
+  {
+    "id": 92,
+    "number": "1",
+    "comment": "1"
+  },
+  {
+    "id": 93,
+    "number": "2312",
+    "comment": "21314"
+  }
+]

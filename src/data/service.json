@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "apparatNumber": "4",
+    "changes": "Апгрейд",
+    "operations": "Мы прокачали вашу тачку - теперь в ней есть джакузи и казино",
+    "worker": "оо оо",
+    "date": "10.07.2022 13:09"
+  },
+  {
+    "id": 3,
+    "apparatNumber": "5",
+    "changes": "111",
+    "operations": "222",
+    "worker": "ivan איליה Lybchak",
+    "date": "05.05.2025 04:03"
+  },
+  {
+    "id": 4,
+    "apparatNumber": "5",
+    "changes": "666",
+    "operations": "555",
+    "worker": "Тестовий чувак чувак",
+    "date": "01.01.2021 00:00"
+  },
+  {
+    "id": 5,
+    "apparatNumber": "14",
+    "changes": "0505",
+    "operations": "04040",
+    "worker": "иииввае 4534",
+    "date": "01.01.2031 11:59"
+  },
+  {
+    "id": 9,
+    "apparatNumber": "15",
+    "changes": "0505",
+    "operations": "04040",
+    "worker": "оо оо",
+    "date": "01.01.2030 00:00"
+  },
+  {
+    "id": 11,
+    "apparatNumber": "6",
+    "changes": "Особаченья",
+    "operations": "Тепер ваша машина гавкає",
+    "worker": "Петренко Теств Тествв",
+    "date": "05.02.2031 01:08"
+  },
+  {
+    "id": 12,
+    "apparatNumber": "25",
+    "changes": "Апгрейд",
+    "operations": "Вы пролудили машину",
+    "worker": "ivan איליה Lybchak",
+    "date": "06.03.2025 08:00"
+  },
+  {
+    "id": 13,
+    "apparatNumber": "37",
+    "changes": "Апгрейд",
+    "operations": "Заміна плати",
+    "worker": "Іванов Петр Петрович",
+    "date": "01.01.2021 00:00"
+  }
+]
